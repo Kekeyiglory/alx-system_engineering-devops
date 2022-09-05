@@ -1,1 +1,1 @@
- takes a list of words
+Display lines containing the pattern “root” from the file /etc/passwd
