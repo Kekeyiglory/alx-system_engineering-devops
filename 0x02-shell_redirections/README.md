@@ -1,1 +1,1 @@
-lists all the files with a .gif extension
+ script that decodes acrostics
