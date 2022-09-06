@@ -1,1 +1,1 @@
-script that prints hello user
+the last directory the shell looks into
