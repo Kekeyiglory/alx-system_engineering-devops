@@ -1,1 +1,1 @@
-empty files and directories
+lists all the files with a .gif extension
